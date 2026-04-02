@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20araaki!&fontSize=50&animation=twinkling&fontAlignY=35"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/araaki12345">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A93F7&center=true&vCenter=true&width=435&lines=I'm student;Frontend+Development;OSINT+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
-  </a>
-</p>
-
 # 👋 こんにちは! araaki です!
 
 ## 👨‍💻 araaki について
@@ -55,16 +49,6 @@
 - 🛡️ 情報と安全保障
   - サイバーセキュリティ
   - 情報セキュリティ
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=araaki12345&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araaki12345&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=araaki12345&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
 
 ## 📫 連絡先
 <p align="center">
